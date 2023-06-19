@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184050049814",
+    "project_id": "thyroidtestdb",
+    "storage_bucket": "thyroidtestdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184050049814:android:4aa7a5b540869bc91aa637",
+        "android_client_info": {
+          "package_name": "com.project.thyroidtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184050049814-o2sf9almg92ljl6bo27udkhn25tpe7ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqglI63B1hhGK27A_r_wRmV2CZJD1vFHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184050049814-o2sf9almg92ljl6bo27udkhn25tpe7ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
